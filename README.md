@@ -1,10 +1,17 @@
-### Hi there 👋
+### Hi there my name is Yordan👋
 
 
 - 🔭 I’m currently working on react single apps.
 - 🌱 I’m currently learning React.js.
 - 👯 I am looking to collaborate with everything related to Front-end.
-🤔 I’m looking for help with find a job.
+- 🤔 I’m looking for help with find a job.
 - 💬 Ask me about everything.
 - 📫 How to reach me: Yordan.
+
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /> 
+
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+
 
