@@ -12,7 +12,6 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-
 - https://github.com/nlotoo/Pet-HUB-Application  - My course project on React.js.
-
+- https://github.com/nlotoo/washUp - My Angular project.
 
