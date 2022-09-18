@@ -1,7 +1,7 @@
 ### Hi there my name is Yordan👋
 
 
-- 🔭 I’m currently working on Time managment applicaton
+- 🔭 I’m currently working on -
 - 🌱 I’m currently learning React.js.
 - 👯 I am looking to collaborate with everything related to Front-end.
 - 💬 Ask me about everything.
