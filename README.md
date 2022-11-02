@@ -1,8 +1,8 @@
 ### Hi there my name is Yordan👋
 
 
-- 🔭 I’m currently working on -
-- 🌱 I’m currently learning React.js.
+- 🔭 I’m currently working on Angular-course-project2022.
+- 🌱 I’m currently learning Angular JS / TypeScript.
 - 👯 I am looking to collaborate with everything related to Front-end.
 - 💬 Ask me about everything.
 - 📫 How to reach me: Yordan.
