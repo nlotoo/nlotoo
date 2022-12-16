@@ -1,7 +1,7 @@
 ### Hi there my name is Yordan👋
 
 
-- 🔭 I’m currently working on Angular-course-project2022.
+- 🔭 I’m currently working on Angular-course-project2022. (link below)
 - 🌱 I’m currently learning Angular JS / TypeScript.
 - 👯 I am looking to collaborate with everything related to Front-end.
 - 💬 Ask me about everything.
@@ -18,5 +18,6 @@ src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo.png" widt
 
 
 - https://github.com/nlotoo/Pet-HUB-Application  - My course project on React.js.
+- https://github.com/nlotoo/Angular--course-project - My course project on Angular/TypeScript.
 
 
