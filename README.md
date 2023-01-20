@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ecommerce website
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning 
 - 👯 I am looking to collaborate with everything related to Front-end.
 - 💬 Ask me about everything.
 - 📫 How to reach me: Yordan.
