@@ -1,8 +1,8 @@
 ### Hi there my name is Yordan👋
 
 
-- 🔭 I’m currently working on ecommerce website
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on fuzzy-chainsaw
+- 🌱 I’m currently learning GprahQL
 - 👯 I am looking to collaborate with everything related to Front-end.
 - 💬 Ask me about everything.
 - 📫 How to reach me: Yordan.
