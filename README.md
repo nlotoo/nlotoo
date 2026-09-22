@@ -3,7 +3,7 @@
 # Hi, I'm Yordan 👋
 ### Full-Stack Web Developer building production apps for real businesses
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-view_site-8C6BFF?style=for-the-badge)](https://portfolio-six-opal-50.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view_site-8C6BFF?style=for-the-badge)](https://frelance-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yordan-nikolov-84b98a1a9/)
 [![Email](https://img.shields.io/badge/Email-say_hi-57E6C9?style=for-the-badge&logo=gmail&logoColor=0A0A18)](mailto:nlotoo93@gmail.com)
 
@@ -55,8 +55,6 @@ AI isn't a buzzword in my process — I use the latest models daily to move fast
 ![GPT-5](https://img.shields.io/badge/GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
-
-Built my own AI agent from scratch → **[research-agent](https://github.com/nlotoo/research-agent)** — searches the web and answers with sources, using the OpenAI API.
 
 ### 💼 Live Projects
 
