@@ -13,7 +13,7 @@
 
 ### 🚀 About
 
-I build full-stack web applications and e-commerce platforms — solo, end-to-end, from architecture to deployment. 2.5+ years of experience, 5+ applications currently live and used by real clients every day. Currently open for freelance work.
+I build full-stack web applications and e-commerce platforms — solo, end-to-end, from architecture to deployment. 4+ years of experience, 5+ applications currently live and used by real clients every day. Currently open for freelance work.
 
 - 🔭 Currently building **client projects** across logistics, e-commerce and training platforms
 - 🤖 Developing with an **AI-augmented workflow** — see below
